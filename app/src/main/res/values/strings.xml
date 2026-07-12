@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VFU</string>
+    <string name="v_lj_textfil">Välj textfil…</string>
+    <string name="ingen_fil_vald">Ingen fil vald</string>
+</resources>
